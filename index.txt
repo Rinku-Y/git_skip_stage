@@ -1,1 +1,2 @@
-Git stage skip concept
+Git stage skip concept..
+This is also important concept

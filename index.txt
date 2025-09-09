@@ -1,2 +1,3 @@
 Git stage skip concept..
-This is also important concept
+This is also important concept..
+Okay, I understood
